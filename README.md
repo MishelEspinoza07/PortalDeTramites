@@ -7,3 +7,6 @@ El objetivo principal del portal de trámites es facilitar y agilizar el proceso
 ![2](https://github.com/MishelEspinoza07/PortalDeTramites/assets/102001751/3917c345-a018-4930-94f6-efbccc7a0e32)
 
 ![3](https://github.com/MishelEspinoza07/PortalDeTramites/assets/102001751/31e6826b-4c2b-4181-93a2-685e60f1e77b)
+
+Más detalle de mock-ups 
+https://www.figma.com/file/yWYl0vF6wCTw6whSqlCBJp/Portal-de-Tr%C3%A1mites?type=design&node-id=0%3A1&mode=design&t=JWzX34WXyrwWxLAm-1
